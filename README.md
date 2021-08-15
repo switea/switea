@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @switea
 - 👀 I’m interested in Game Development, Cybersecurity and IoT!
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Java
 - 💞️ I’m looking to collaborate on every single interesting project here which can help me get experience!
 - 📫 How to reach me: mainly by email gurrenale@mail.ru
 
